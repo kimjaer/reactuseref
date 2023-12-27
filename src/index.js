@@ -5,7 +5,8 @@ import App from './App';
 import App2 from './App2';
 import Scroll from './Scroll'
 import reportWebVitals from './reportWebVitals';
-import Preinterview from './Preinterview';
+// import Preinterview from './Preinterview';
+import Preinterview from './Preinterview css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
