@@ -5,12 +5,13 @@ import App from './App';
 import App2 from './App2';
 import Scroll from './Scroll'
 import reportWebVitals from './reportWebVitals';
+import Preinterview from './Preinterview';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
     <App />
-    <App2 />
+    <Preinterview></Preinterview>
     <Scroll></Scroll>
   </>
 );
